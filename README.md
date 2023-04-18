@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A junior frontend developer from France</h3>
+<h3 align="center">I'm a junior developer from France, currently a first year Epitech Technology student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
