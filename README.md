@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Tristan</h2>
 <h4 align="center">I'm a junior developer from France, currently a first year Epitech Technology student</h4>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
+<h4 align="center">Connect with me:</h4>
+<p align="center">
 <a href="https://linkedin.com/in/tristan-le-du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristan le du" height="30" width="40" /></a>
 </p>
 
