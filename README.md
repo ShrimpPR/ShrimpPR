@@ -53,7 +53,6 @@
  <br />
 <div align="center">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ShrimpPR&show_icons=true&theme=react&hide_border=true&count_private=true" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimpPR&theme=react&layout=compact&hide_border=true" />
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=ShrimpPR&theme=react&fire=57F287&hide_border=true" />
  </div>
  
