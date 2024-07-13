@@ -6,7 +6,7 @@
 </h1>
 
 <h5 align="center">
-  I'm a french second year student at EPITECH Bordeaux.<br>
+  I'm a french third year student at EFREI Bordeaux.<br>
 </h5>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
